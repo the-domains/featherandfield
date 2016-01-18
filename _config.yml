@@ -1,19 +1,4 @@
-name: Featherandfield
-favicon: null
-layout_spectrum: 0.8713486976921558
-typography_spectrum: 0.1623481020797044
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ADD7F6'
@@ -23,6 +8,11 @@ color:
     - '#3B28CC'
   brandStrength: 0.6499246200546622
   lightness: 0.9896149209234864
-  saturation: 0.30216499301604927
   rhythmicContrast: 0.5458578220568597
+  saturation: 0.30216499301604927
+cta: {}
+layout_spectrum: 0.8713486976921558
+name: Featherandfield
+opengraph: {}
 purpose: []
+typography_spectrum: 1
